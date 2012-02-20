@@ -9,9 +9,9 @@ import java.util.*;
 public class HMM
 {
 
-    //
+	//
 	// this method does most of the work here
-    //
+	//
 	public void run (String observedEmissions)
 	{
 		// holds our matrix
